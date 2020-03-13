@@ -53,7 +53,9 @@
 <h2>Did You Know?</h2>
 <div id="trivia" class="txt-block">
 <h4>Trivia</h4>
-All the episodes' names start with "The One With" or "The One Where". This is because when people usually recall an episode, they do not remember its name, but instead remember the incident that happened in it. <a class="nobr" href="https://www.imdb.com/title/tt0108778/trivia?ref_=tt_trv_trv">See more</a> &raquo;</div>
+All the episodes' names start with "The One With" or "The One Where". This is because when people usually recall an episode, they do not remember its name, but instead remember the incident that happened in it. <a class="nobr" href="https://www.imdb.com/title/tt0108778/trivia?ref_=tt_trv_trv">See more</a></div>
+<div class="txt-block">&nbsp;</div>
+<div class="txt-block"><img class="n3VNCb" style="width: 220px; height: 220px; margin: 0px;" src="https://media1.tenor.com/images/5ca9be6dcb0be16792471959483c2dcd/tenor.gif?itemid=5983432" alt="Image result for friends i know gif" data-noaft="1" /></div>
 <hr />
 <div id="goofs" class="txt-block">
 <h4>Goofs</h4>
@@ -76,7 +78,6 @@ The episode "The One Where Rachel Tells..." originally featured Chandler making 
 </div>
 </div>
 </div>
-<p>&nbsp;</p>
 <div id="_kQdsXsSrI4n8rQHi_6-gBg9" class="mWyH1d kno-ato" tabindex="0" role="button" aria-controls="_kQdsXsSrI4n8rQHi_6-gBg8" aria-expanded="true">
 <div class="match-mod-horizontal-padding hide-focus-ring cbphWd" style="padding-right: 40px;" data-kt="KjC-87vhkZO-1fIBk-evzbCKwdn6AdmUtqTFpNeuK4WU9pW1m6TN3QGz5ee_x9HR9Bk" data-hveid="CAEQGQ" data-ved="2ahUKEwiEuPSzvpjoAhUJfisKHeL_C2QQuk4oAHoECAEQGQ">Is Amazon a friend?</div>
 </div>
@@ -159,6 +160,7 @@ The episode "The One Where Rachel Tells..." originally featured Chandler making 
 <p class="ui_qtext_para u-ltr u-text-align--start">Matthew Perry, who played Chandler, developed an addiction to alcohol and to ease this he then became addicted to Vicodin. He first started taking prescription drugs after a jet ski accident in 1997 and checked himself into Hazelden. In 2000 he was hospitalized with pancreatitis as a result of his addictions. During that summer he lost 20 pounds, appearing noticeably thinner during the 7th season premiere of Friends, in a scene that continued directly from the 6th season finale.</p>
 <p class="ui_qtext_para u-ltr u-text-align--start">But even with all these transformations he brought us all great moments.Matthew Perry checked into rehab. The filming schedule on Friends was altered so scenes not featuring his character Chandler were shot first. This is why Chandler moved to Tulsa in season 9. His recovery once again caused weight fluctuations.</p>
 <p class="ui_qtext_para u-ltr u-text-align--start">We love you <strong>Miss Chanandler Bong.</strong></p>
+<p class="ui_qtext_para u-ltr u-text-align--start">&nbsp;</p>
 <div id="_yQxsXqbwJpGo9QOu6JzIBw9" class="mWyH1d kno-ato" tabindex="0" role="button" aria-controls="_yQxsXqbwJpGo9QOu6JzIBw8" aria-expanded="true">
 <div class="match-mod-horizontal-padding hide-focus-ring cbphWd" style="padding-right: 40px;" data-kt="Ki7NzeaGhPbE5AO_yeTawLrOrR_KrPyuz-OE02vY1-3r3aufwxygrenDvNip6NIB" data-hveid="CAEQGA" data-ved="2ahUKEwjm-P6ww5joAhURVH0KHS40B3kQuk4oAHoECAEQGA"><strong>Why did friends become so popular?</strong></div>
 </div>
