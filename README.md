@@ -1,7 +1,6 @@
-<p>F.R.I.E.N.D.S FANPAGE</p>
+<p>F.R.I.E.N.D.S FACTS</p>
 <p>&nbsp;</p>
-<p><img class="n3VNCb" style="width: 534px; height: 301px; margin: 0px;" src="https://pmcvariety.files.wordpress.com/2018/12/friends.jpg?crop=53px%2C41px%2C1198px%2C675px&amp;resize=1000%2C563" alt="Image result for FRIENDS" data-noaft="1" /></p>
-<p>&nbsp;</p>
+<p><img class="n3VNCb" style="width: 433px; height: 270.625px; margin: 0px;" src="https://lh3.googleusercontent.com/ZOVB_g8k89fAnWICdcbfFSjBru4gxFYu0PHr01or5XEZNrtuQesViacwRCjslBcSFRTrMukITg=w640-h400-e365" alt="Image result for friends HD" data-noaft="1" /></p>
 <div class="NFQFxe viOShc mod" lang="en-IN" data-md="126" data-hveid="CAUQAA" data-ved="2ahUKEwiOosDKuJjoAhUYU30KHROIBrEQum4wAHoECAUQAA">
 <div class="N6Sb2c i29hTd" role="heading" aria-level="2"><span class="qLLird">Available on</span></div>
 <div class="E6Cqjb">&nbsp;</div>
@@ -45,7 +44,7 @@
 <h3>Popular in India: "Friends"</h3>
 <p class="blurb">This Valentine's day, consider: are you more of a Ross, or a Rachel, or a Phoebe? If you need a refresher on your Friends from the '90s, take this nostalgic quiz on the hook-ups, break-ups, and make-ups that defined a decade.</p>
 </div>
-<div class="PZPZlf P8aK7e tpa-ci" data-ved="2ahUKEwiOosDKuJjoAhUYU30KHROIBrEQsoQBKAAwAXoECB0QAw"><img class="pri_image" title="Jennifer Aniston, Courteney Cox, Lisa Kudrow, Matt LeBlanc, Matthew Perry, and David Schwimmer in Friends (1994)" src="https://m.media-amazon.com/images/M/MV5BMjQ0ZjU0MzctNGY0Mi00NDBjLWIwMGYtZDcyOWZkYjBhYzczXkEyXkFqcGdeQXVyNjY1MDE3OTU@._V1_SX307_CR0,0,307,230_AL_.jpg" alt="Jennifer Aniston, Courteney Cox, Lisa Kudrow, Matt LeBlanc, Matthew Perry, and David Schwimmer in Friends (1994)" width="495" height="371" /></div>
+<div class="PZPZlf P8aK7e tpa-ci" data-ved="2ahUKEwiOosDKuJjoAhUYU30KHROIBrEQsoQBKAAwAXoECB0QAw"><img class="n3VNCb" style="width: 433px; height: 297.888px; margin: 0px;" src="https://images-na.ssl-images-amazon.com/images/G/01/digital/video/hero/TVSeries/Friends_4926700-FRIENDS._V392939166_SX1080_.jpg" alt="Image result for friends HD" data-noaft="1" /></div>
 <div class="PZPZlf P8aK7e tpa-ci" data-ved="2ahUKEwiOosDKuJjoAhUYU30KHROIBrEQsoQBKAAwAXoECB0QAw">
 <h2>Storyline</h2>
 <div class="inline canwrap">
@@ -153,6 +152,8 @@ The episode "The One Where Rachel Tells..." originally featured Chandler making 
 <div class="mod" style="clear: none;" data-md="61">
 <div class="LGOjhe" role="heading" aria-level="3" data-attrid="wa:/description" data-hveid="CAEQAw"><span class="ILfuVd NA6bn"><span class="e24Kjd">Matthew Perry, who played <strong>Chandler</strong>, developed an addiction to alcohol and to ease this he then became addicted to Vicodin. He first started taking prescription drugs after a jet ski accident in 1997 and checked himself into Hazelden. ... This is why <strong>Chandler</strong> moved to Tulsa in <strong>season 9</strong>.</span></span></div>
 <div class="LGOjhe" role="heading" aria-level="3" data-attrid="wa:/description" data-hveid="CAEQAw">&nbsp;</div>
+<div class="LGOjhe" role="heading" aria-level="3" data-attrid="wa:/description" data-hveid="CAEQAw"><span class="ILfuVd NA6bn"><span class="e24Kjd"><img class="n3VNCb" style="width: 433px; height: 324.75px; margin: 0px;" src="https://images3.alphacoders.com/998/thumb-1920-998894.jpg" alt="Image result for friends HD" data-noaft="1" /></span></span></div>
+<div class="LGOjhe" role="heading" aria-level="3" data-attrid="wa:/description" data-hveid="CAEQAw">&nbsp;</div>
 <div class="LGOjhe" role="heading" aria-level="3" data-attrid="wa:/description" data-hveid="CAEQAw">
 <h1><span id="wJbjx7qf12"><span class="ui_content_title ui_content_title--default ui_content_title--large"><span class="ui_qtext_rendered_qtext">Why did Chandler's weight change on Friends?</span></span></span></h1>
 </div>
@@ -160,7 +161,7 @@ The episode "The One Where Rachel Tells..." originally featured Chandler making 
 <p class="ui_qtext_para u-ltr u-text-align--start">Matthew Perry, who played Chandler, developed an addiction to alcohol and to ease this he then became addicted to Vicodin. He first started taking prescription drugs after a jet ski accident in 1997 and checked himself into Hazelden. In 2000 he was hospitalized with pancreatitis as a result of his addictions. During that summer he lost 20 pounds, appearing noticeably thinner during the 7th season premiere of Friends, in a scene that continued directly from the 6th season finale.</p>
 <p class="ui_qtext_para u-ltr u-text-align--start">But even with all these transformations he brought us all great moments.Matthew Perry checked into rehab. The filming schedule on Friends was altered so scenes not featuring his character Chandler were shot first. This is why Chandler moved to Tulsa in season 9. His recovery once again caused weight fluctuations.</p>
 <p class="ui_qtext_para u-ltr u-text-align--start">We love you <strong>Miss Chanandler Bong.</strong></p>
-<p class="ui_qtext_para u-ltr u-text-align--start">&nbsp;</p>
+<p class="ui_qtext_para u-ltr u-text-align--start">&nbsp;<img class="n3VNCb" style="width: 433px; height: 243.563px; margin: 0px;" src="https://i.ytimg.com/vi/qPFTT7h6voo/maxresdefault.jpg" alt="Image result for friends HD" data-noaft="1" /></p>
 <div id="_yQxsXqbwJpGo9QOu6JzIBw9" class="mWyH1d kno-ato" tabindex="0" role="button" aria-controls="_yQxsXqbwJpGo9QOu6JzIBw8" aria-expanded="true">
 <div class="match-mod-horizontal-padding hide-focus-ring cbphWd" style="padding-right: 40px;" data-kt="Ki7NzeaGhPbE5AO_yeTawLrOrR_KrPyuz-OE02vY1-3r3aufwxygrenDvNip6NIB" data-hveid="CAEQGA" data-ved="2ahUKEwjm-P6ww5joAhURVH0KHS40B3kQuk4oAHoECAEQGA"><strong>Why did friends become so popular?</strong></div>
 </div>
